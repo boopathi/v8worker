@@ -1,4 +1,4 @@
-version?=4.3.59
+version?=sentinel
 target?=x64.debug # available: native, ia32.debug, ia32.release, x64.release
 
 test: v8worker.test
