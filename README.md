@@ -10,6 +10,14 @@ messages to Go. There are only three built in functions exposed to javascript:
 
 MIT License. Contributions welcome.
 
+Dependencies
+------------
+
+Checkout [depot tools](http://www.chromium.org/developers/how-tos/install-depot-tools), and run
+
++ `fetch --no-history v8`
++ `mv v8 v8-sentinel`
+
 Build
 -----
 
